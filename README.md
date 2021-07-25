@@ -1,5 +1,5 @@
 
-# 💁 Welcome to my hellhole <img src= height=40>
+# <img src=/dancinbitch.gif height=50> Welcome to my hellhole <img src=/smilincreep.gif height=50>
 
 Hoi, name's Mark.  
 Dunno why tf would you come on my profile, but *eh*  
@@ -9,7 +9,7 @@ Enjoy the emptiness i guess?
 
 I'm just a lonely young game developer that is currently still learning the ways of game art! I'm also a pixel artist and talentless pixel music creator.  
 I live in **Azerbaijan** *(which im not proud of)* but plan to move out somewhere else in future, haha  
-If you wanna talk to me just come to my [Twitter][1] or [Discord][2]
+If you wanna talk to me just come to my **[Twitter][1]** or **[Discord][2]**
 
 - 👋 I don't know what the fuck i am doing
 - 👀 I’m not interested in anything other than gaymes
