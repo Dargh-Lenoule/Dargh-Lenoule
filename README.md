@@ -14,10 +14,10 @@ I live in **Azerbaijan** *(which im not proud of)* but plan to move out somewher
 If you wanna talk to me just come to my **[Twitter][1]** or **[Discord][2]**
 
 - 👋 I don't know what the fuck i am doing
-- 👀 I’m not interested in anything other than gaymes
+- 👀 I’m not interested in anything other than games (yes i am but i won't talk about it)
 - 🌱 I’m currently learning how to socialize
 - 👬 I’m looking to collaborate on- **No i don't.**
-- 💞️ *If you want me to like you, show me some cool digital tools :)*
+- 💞️ If you want me to like you, show me some cool digital tools :)
 - 📫 How to reach me - here's my email: leprinceofdarkness@gmail.com
 
 ***
