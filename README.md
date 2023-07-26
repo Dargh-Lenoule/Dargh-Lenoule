@@ -1,10 +1,4 @@
-
-# <img src=/dancinbitch.gif height=50> Welcome to my hellhole <img src=/smilincreep.gif height=50>
-
 ### Hoi, name's Mark.  
-### Dunno why tf would you come on my profile, but *eh*  
-### Enjoy the emptiness i guess?
-
 ***
 
 ## 🌌 About me
@@ -15,10 +9,10 @@ If you wanna talk to me just come to my **[Twitter][1]** or **[Discord][2]**
 
 - 👋 I don't know what the fuck i am doing
 - 👀 I’m not interested in anything other than games (yes i am but i won't talk about it)
-- 🌱 I’m currently learning how to socialize
-- 👬 I’m looking to collaborate on- **No i don't.**
+- 🌱 I’m currently learning breathing
+- 👬 I am scared of people
 - 💞️ If you want me to like you, show me some cool digital tools :)
-- 📫 How to reach me - here's my email: leprinceofdarkness@gmail.com
+- 📫 How to reach me - here's my email: pandemonium@duck.com
 
 ***
 
