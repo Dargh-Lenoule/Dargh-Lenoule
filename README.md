@@ -24,6 +24,8 @@ If you wanna talk to me just come to my **[Twitter][1]** or **[Discord][2]**
 
 ***
 
+pfp by Batsu Nozuchi
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Game_Engine-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=blueviolet)
