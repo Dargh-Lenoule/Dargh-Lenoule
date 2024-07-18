@@ -4,7 +4,7 @@
 ## 🌌 About me
 
 I'm just a lonely young game developer that is currently still learning the ways of game art! I'm also a pixel artist and talentless pixel music creator.  
-I live in **Azerbaijan** *(which im not proud of)* but plan to move out somewhere else in future, haha  
+
 If you wanna talk to me just come to my **[Twitter][1]** or **[Discord][2]**
 
 - 👋 I don't know what the fuck i am doing
