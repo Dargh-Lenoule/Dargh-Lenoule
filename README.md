@@ -5,7 +5,7 @@
 
 I'm just a lonely young game developer that is currently still learning the ways of game art! I'm also a pixel artist and talentless pixel music creator.  
 
-If you wanna talk to me just come to my **[Twitter][1]** or **[Discord][2]**
+If you wanna talk to me just come to my **[Discord][2]**
 
 - 👋 I don't know what the fuck i am doing
 - 👀 I’m not interested in anything other than games (yes i am but i won't talk about it)
@@ -33,5 +33,5 @@ pfp by Batsu Nozuchi
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-GDScript-informational?style=flat&logo=godot-engine&logoColor=white&color=blueviolet)
 
-[1]: https://twitter.com/weebnsleep
+
 [2]: https://discordhub.com/profile/518707581364076554
