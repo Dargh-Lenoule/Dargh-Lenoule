@@ -22,9 +22,6 @@ If you wanna talk to me just come to my **[Discord][2]**
   
 -Alfred North Whitehead
 
-***
-
-pfp by Batsu Nozuchi
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
